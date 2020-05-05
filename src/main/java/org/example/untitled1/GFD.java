@@ -1,4 +1,4 @@
-package org.example;
+package org.example.untitled1;
 
 public class GFD {
 
